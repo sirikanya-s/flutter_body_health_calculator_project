@@ -17,9 +17,9 @@ class _HomeUiState extends State<HomeUi> {
 
   // สร้างตัวแปรแบบ List คือ ตัวแปร 1 ตัวเก็บได้มากกว่า 1 ข้อมูลเหมือน Array
   List subViewShow = [
-    BmiUi(),
+    BmiUI(),
     AboutUI(),
-    BmrUi(),
+    BmrUI(),
   ];
 
   @override
